@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "am-components-backend": "git+https://e6aa619486e35d6af0364fd1d700efc15fd59b72@github.com/jomedia/am-components-backend.git",
+    "am-components-backend": "git+https://components-backend:V26sxoPELSNTcvL1JaQK@gitlab.com/ActionMediaInc/adcenter/am-components-backend.git",
     "apollo-server": "^2.12.0",
     "apollo-server-express": "^2.9.16",
     "async-redis": "^1.1.7",

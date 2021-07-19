@@ -20,6 +20,8 @@ RUN apt-get install --yes nodejs
 
 RUN apt-get install --yes git
 
+RUN git config --global http.sslVerify "false"
+
 WORKDIR /home/app
 COPY . .
 RUN npm install
