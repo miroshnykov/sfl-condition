@@ -33,7 +33,7 @@ config = {
     },
     gotzhaApi:'',
     googleSso: {
-        url: 'https://am-ssoauth.surge.systems/'
+        url: 'https://am-ssoauth.jatun.systems/'
     },
     am_app_key: '',
     googleAuth: {

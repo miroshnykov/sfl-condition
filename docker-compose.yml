@@ -11,7 +11,7 @@ services:
       - 5001:5001
     environment:
       - BRANCH=dev
-      - VIRTUAL_HOST=sfl-api-local.surge.systems
+      - VIRTUAL_HOST=sfl-api-local.jatun.systems
     networks:
       - proxy
       - database
